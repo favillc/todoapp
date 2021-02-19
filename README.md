@@ -1,4 +1,14 @@
-# Todo
+# About the Todo App
+This is my first project with Angular. The goal was to build a simple frontend for a To do List web app, all as was requested by professor André Baltieri, from Balta.io portal.
+As you can see, it's a simple (and pink) task list where you can:  
+- add some task;
+- mark said task as "done" or "undone";
+- delete said task;
+I hope you enjoy, this is a start for me and I'm happy with the outcome.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Generated with
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.1.
 
