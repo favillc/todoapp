@@ -4,6 +4,7 @@ As you can see, it's a simple (and pink) task list where you can:
 - add some task;
 - mark said task as "done" or "undone";
 - delete said task;
+
 I hope you enjoy, this is a start for me and I'm happy with the outcome.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
