@@ -7,6 +7,7 @@ As you can see, it's a simple (and pink) task list where you can:
 
 I hope you enjoy, this is a start for me and I'm happy with the outcome.
 
+![Alt Text](https://media.giphy.com/media/PpVinmVaYO9pAnuzF5/giphy.gif)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Generated with
